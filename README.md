@@ -1,5 +1,6 @@
 - 👋 Hi, I’m ViktorVolkin
 - 👀 I’m interested in earning money
-- 🐍 I’m currently learning Python
+- 🐍 I was learning Python
+- Currently i am learning JS and other thingies for frontend.
 - 📫 How to reach me:no way
 - ⚡ Fun fact:I'm student.
