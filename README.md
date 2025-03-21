@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ViktorVolkin
+- 👋 Hi, I’m Viktor
 - 👀 I’m interested in earning money
 - 🐍 I was learning Python
 - Currently i am learning JS and other thingies for frontend.
-- 📫 How to reach me:no way
+- 📫 How to reach me:vic.lisinski@gmail.com (but there is low probability that i'll answer) or @ErsteKaiser
 - ⚡ Fun fact:I'm student.
